@@ -6,10 +6,10 @@ Exploration and visualization of data obtained from the XYZ supermarket from Jan
 # Project Steps:
 <br>1) Loading the dataset containing sales information of XYZ supermarket
 <br>2) Data exploration involving:
-<br>  i) Checking the number of rows and columns in the data set.
-<br>  ii) Generating the names of the columns in the data set.
-<br>  iii) Generating a statistical summmary and information about the data set.
-<br>  iv) Checking for missing values in the data set.
+    <br> i) Checking the number of rows and columns in the data set.
+    <br> ii) Generating the names of the columns in the data set.
+    <br> iii) Generating a statistical summmary and information about the data set.
+    <br> iv) Checking for missing values in the data set.
 <br>3) Extracting the Day, Month, Year and Hour features from the date and time columns.
 <br>4) Generating the unique values in the categorical columns.
 <br>5) Aggregation of columns using Groupby and pivot tables to generate insights from the sales data.
@@ -26,13 +26,13 @@ Exploration and visualization of data obtained from the XYZ supermarket from Jan
 <br>4) More goods were sold in Lagos than in the other two cities. 
 <br>5) Member customers generated more income than normal customers
 <br>6) Female customers contributed more to the gross income than male customers
-<br>7) 
+<br>7) Female customers also bought more items in total than male customers
 <br>8) More income was generated from the sale of food and beverages than any other item
 <br>9) Branch C had the highest average rating, while Branch A recorded the highest total ratings. Branch B had the lowest ratings.
-<br>10) Lagos had the highest number of sales records
-<br>11) The most frequently used payment method was epay
-<br>12) The fashion accessories line had the highest number of sales records, while the Health and beauty line had the lowest recoeds
-<br>13)
+<br>10) Lagos had the highest number of sales records.
+<br>11) The most frequently used payment method was epay.
+<br>12) The fashion accessories line had the highest number of sales records, while the Health and beauty line had the lowest records.
+<br>13) More items were sold in the Electronic accessories line than in any other product line.
 <br>14) The preferred payment channel for each product line is listed below:
     <br>i) Food and beverages - Card
     <br>ii) Fashion accessories - Epay
@@ -55,7 +55,7 @@ Exploration and visualization of data obtained from the XYZ supermarket from Jan
         <br> Food and Beverages, Fashion accessories, Electronic accessories, and Home and lifestyle.
      <br> Males contributed more to the total sales in the following sections:
         <br> Sports and travel, Health and beauty.
-   <br>18)
+   <br>18) The quantity of a product bought generally decreased with an increase in its price.
    <br>19) Electronic accessories averagely cost the least, and fashion accessories were averagely the most expensive items.
    <br>20) There is no relationship between the ratings given by customers and the total sales.
    <br>21) High ratings do not correspond to an increase in the number of items bought by customers.
