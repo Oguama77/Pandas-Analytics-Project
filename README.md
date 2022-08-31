@@ -41,7 +41,7 @@ Exploration and visualization of data obtained from the XYZ supermarket from Jan
     <br>&nbsp;v) Home and lifestyle - Epay
     <br>&nbsp;vi) Health and beauty - Epay
  <br>15) Epay is the preferred form of payment in branches A and B, while cash is the preferred form of payment in branch C.
- <br>16) The relationshipp between gender and the purchase of specific products is as follows:
+ <br>16) The relationship between gender and the purchase of specific products is as follows:
        <br>&nbsp;i) More females patronized the Food and Beverages section than males.
       <br>&nbsp;ii) Females on average also bought a larger quantity of food and beverages than males.
       <br>&nbsp;iii) Most buyers of fashion accessories were females.
