@@ -63,6 +63,13 @@ Exploration and visualization of data obtained from the XYZ supermarket from Jan
    <br>23) Food and beverages were sold more in February.
    <br>24) Fashion accessories, electronic accessories, and sports and travel items were sold more in January.
    <br>25) Home and lifestyle, and health and beauty items were sold more in March.
+   <br>26) More items were sold on Saturdays than on any other day of the week.
+   <br>27) More income was made on Saturdays than on any other day of the week.
+   <br>28) More Foods and beverages were sold on Wednesdays<br>2) More fashion accessories were sold on Saturdays
+   <br>29) Electronic accessories were mostly sold on Thursdays
+   <br>30) Sports and travel items were mostly sold on Saturdays
+   <br>31) Home and lifestyle products were mostly sold on Sundays
+   <br>32) Health and beauty items were mostly sold on Tuesdays**
 
 # Future Work
 <br>Future work on this data set will include feature engineering and the use of relevant features to predict future sales in each branch.
