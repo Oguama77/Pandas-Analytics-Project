@@ -85,3 +85,6 @@ Exploration and visualization of data obtained from the XYZ supermarket from Jan
 <br>7) The month with the highest gross income.
 <br>8) Quantity of goods sold per city.
 <br>9) Gross income generated per product line.
+<br>10) Day of the week with the highest sales
+<br>11) Day of the week with the highest quantity of goods sold
+<br>12) The relationship between the day of the week and sales in each product line
